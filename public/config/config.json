@@ -7,10 +7,10 @@
     "ID": 4
   },
   "NFT_NAME": "ST4ND 4 UKR",
-  "SYMBOL": "UKR",
+  "SYMBOL": "NFT",
   "MAX_SUPPLY": 5000,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/st4nd-4-ukr-v2",
