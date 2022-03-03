@@ -10,9 +10,9 @@
   "SYMBOL": "NFT",
   "MAX_SUPPLY": 5000,
   "WEI_COST": 500000000000000000,
-  "DISPLAY_COST": 0.5,
+  "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/st4nd-4-ukr-v2",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/st4nd4ukr",
   "SHOW_BACKGROUND": true
 }
